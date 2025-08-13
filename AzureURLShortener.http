@@ -1,0 +1,6 @@
+@AzureURLShortener_HostAddress = http://localhost:5120
+
+GET {{AzureURLShortener_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
