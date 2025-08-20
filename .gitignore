@@ -1,7 +1,12 @@
+# Visual Studio / .NET
 .vs/
-**/bin/
-**/obj/
+bin/
+obj/
+*.user
+*.suo
 *.db
 *.cache
-*.suo
-*.user
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
