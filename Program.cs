@@ -158,7 +158,6 @@ record CreateRequest(string Url, string? CustomCode);
 record UrlEntity(string Code, string OriginalUrl, DateTimeOffset CreatedUtc);
 
 class StorageOptions { public string? ConnectionString { get; set; } public string TableName { get; set; } = "UrlMappings"; }
-class QueueOptions { public bool Enabled { get; set; } = true; public string Name { get; set; } = "clicklogs"; }
 class AppOptions { public string? BaseUrl { get; set; } = ""; }
 
 // Repo
