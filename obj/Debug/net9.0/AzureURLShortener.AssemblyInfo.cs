@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureURLShortener")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be2775dd0443bbe861994a7de4c74d8f3fa8a9f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureURLShortener")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureURLShortener")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
