@@ -1,4 +1,7 @@
 .vs/
-bin/
-obj/
+**/bin/
+**/obj/
+*.db
+*.cache
+*.suo
 *.user
